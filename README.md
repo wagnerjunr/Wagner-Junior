@@ -1,8 +1,8 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h1 align="center">Hi 👋, I'm Wagner Aparecido da Silva Junior </h1>
-<h3 align="center">
+<h4 align="center">
   A full-stack web development engineer currently working with JavaScript (Next.js and Node.js) and always enhancing my knowledge in other programming languages. Currently studying IT and seeking new opportunities.
-</h3>
+</h4>
 <h2 align="left">💻 I've worked with: </h2>
 <p align="center">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="javascript" style="vertical-align:top; margin:4px">
